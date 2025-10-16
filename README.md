@@ -56,4 +56,4 @@ All features were normalized to [0,1] and standardized for consistent input size
 ## How to Run
  Clone this repository:  
 ```bash
-git clone <>
+git clone <https://github.com/SuhaniSinghPES/COVID-19-Cough-Detection-using-Machine-Learning.git>
